@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ecuation
+namespace uravnenie
 {
     class Program
     {
